@@ -23,6 +23,9 @@ Flip-Swap Galaxy/RedBlueExStepSingle (A and B)
 Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/WoodLogBridgeGate.png)
 
+Tall Trunk Galaxy/TubeSliderGoalTree  
+![Image](/SMG2/Tall%20Trunk%20Galaxy/TubeSliderGoalTree.png)
+
 Cloudy Court Galaxy/SkyIslandDinosaur  
 ![Image](/SMG2/Cloudy%20Court%20Galaxy/SkyIslandDinosaur.png)
 
