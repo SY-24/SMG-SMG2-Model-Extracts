@@ -20,6 +20,9 @@ Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
 
+Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)
+![Image](/SMG2/Hightail%20Falls%20Galaxy/WoodLogBridgeGate.png)
+
 Freezy Flake Galaxy/WhiteOutPlanetStar  
 ![Image](/SMG2/Freezy%20Flake%20Galaxy/WhiteOutPlanetStar.png)
 
