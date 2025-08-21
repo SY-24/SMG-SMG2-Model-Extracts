@@ -13,6 +13,9 @@ Comet Observatory/AstroTorchStand
 Good Egg Galaxy/DiskGardenPlanetHouse  
 ![Image](/SMG/Good%20Egg%20Galaxy/DiskGardenPlanetHouse.png)
 
+Dreadnought Galaxy/WanwanGoya (Single and Double)  
+![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
+
 Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachPalmTree.png)
 
