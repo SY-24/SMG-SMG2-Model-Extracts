@@ -26,6 +26,12 @@ Flip-Swap Galaxy/RedBlueExStepSingle (A and B)
 Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/WoodLogBridgeGate.png)
 
+Cosmic Cove Galaxy/StarCreekFloaterPlatform  
+![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekFloaterPlatform.png)
+
+Cosmic Cove Galaxy/StarCreekSpiralTower  
+![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekSpiralTower.png)
+
 Tall Trunk Galaxy/TubeSliderGoalTree  
 ![Image](/SMG2/Tall%20Trunk%20Galaxy/TubeSliderGoalTree.png)
 
