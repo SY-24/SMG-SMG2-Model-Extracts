@@ -23,6 +23,9 @@ Dreadnought Galaxy/WanwanGoya (Single and Double)
 ![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
 # SMG2
+Yoshi Star Galaxy/YoshiCaughtVolcano  
+![Image](/SMG2/Yoshi%20Star%20Galaxy/YoshiCaughtVolcano.png)
+
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
 
