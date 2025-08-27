@@ -26,6 +26,9 @@ Dreadnought Galaxy/WanwanGoya (Single and Double)
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
 
+Hightail Falls Galaxy/DashYoshiBridge (Fence, FenceCorner, Slope and Step)  
+![Image](/SMG2/Hightail%20Falls%20Galaxy/DashYoshiBridge.png)
+
 Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/WoodLogBridgeGate.png)
 
