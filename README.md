@@ -13,11 +13,14 @@ Comet Observatory/AstroTorchStand
 Good Egg Galaxy/DiskGardenPlanetHouse  
 ![Image](/SMG/Good%20Egg%20Galaxy/DiskGardenPlanetHouse.png)
 
-Dreadnought Galaxy/WanwanGoya (Single and Double)  
-![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
+Space Junk Galaxy/KoopaShipFunnel  
+![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
 
 Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachPalmTree.png)
+
+Dreadnought Galaxy/WanwanGoya (Single and Double)  
+![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
 # SMG2
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
