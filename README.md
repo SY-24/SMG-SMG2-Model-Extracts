@@ -50,5 +50,8 @@ Cloudy Court Galaxy/SkyIslandDinosaur
 Freezy Flake Galaxy/WhiteOutPlanetStar  
 ![Image](/SMG2/Freezy%20Flake%20Galaxy/WhiteOutPlanetStar.png)
 
+Rolling Masterpiece Galaxy/TamakoroPaletteStep  
+![Image](/SMG2/Rolling%20Masterpiece%20Galaxy/TamakoroPaletteStep.png)
+
 Starshine Beach Galaxy/TropicalTikiHut  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalTikiHut.png)
