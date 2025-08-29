@@ -55,3 +55,6 @@ Rolling Masterpiece Galaxy/TamakoroPaletteStep
 
 Starshine Beach Galaxy/TropicalTikiHut  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalTikiHut.png)
+
+Slipsand Galaxy/PyramidGoalPlatform  
+![Image](/SMG2/Slipsand%20Galaxy/PyramidGoalPlatform.png)
