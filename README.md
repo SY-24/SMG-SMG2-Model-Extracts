@@ -23,6 +23,9 @@ Dreadnought Galaxy/WanwanGoya (Single and Double)
 ![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
 # SMG2
+Sky Station Galaxy/IslandFleetMagnumKillerLauncher  
+![Image](/SMG2/Sky%20Station%20Galaxy/IslandFleetMagnumKillerLauncher.png)
+
 Yoshi Star Galaxy/YoshiCaughtVolcano  
 ![Image](/SMG2/Yoshi%20Star%20Galaxy/YoshiCaughtVolcano.png)
 
