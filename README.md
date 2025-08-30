@@ -29,7 +29,7 @@ Yoshi Star Galaxy/YoshiCaughtVolcano
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
 
-Hightail Falls Galaxy/DashYoshiBridge (Fence, FenceCorner, Slope and Step)  
+Hightail Falls Galaxy/DashYoshiBridge (Fence, FenceCorner (Red and Blue), Slope and Step)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/DashYoshiBridge.png)
 
 Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)  
