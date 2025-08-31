@@ -68,5 +68,8 @@ Slipsand Galaxy/GorogoroPyramid (by Gabbo)
 Slipsand Galaxy/PyramidGoalPlatform  
 ![Image](/SMG2/Slipsand%20Galaxy/PyramidGoalPlatform.png)
 
+Clockwork Ruins Galaxy/AncientExcavationTree  
+![Image](/SMG2/Clockwork%20Ruins%20Galaxy/AncientExcavationTree.png)
+
 Mario Squared Galaxy/MarioOnMarioStartStep  
 ![Image](/SMG2/Mario%20Squared%20Galaxy/MarioOnMarioStartStep.png)
