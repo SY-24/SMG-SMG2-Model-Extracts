@@ -22,6 +22,9 @@ Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)
 Dreadnought Galaxy/WanwanGoya (Single and Double)  
 ![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
+Matter Splatter Galaxy/DarkHopperOneWayStep  
+![Image](/SMG/Matter%20Splatter%20Galaxy/DarkHopperOneWayStep.png)
+
 # SMG2
 Sky Station Galaxy/IslandFleetMagnumKillerLauncher  
 ![Image](/SMG2/Sky%20Station%20Galaxy/IslandFleetMagnumKillerLauncher.png)
