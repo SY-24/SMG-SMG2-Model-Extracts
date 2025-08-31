@@ -44,6 +44,9 @@ Cosmic Cove Galaxy/StarCreekFloaterPlatform
 Cosmic Cove Galaxy/StarCreekSpiralTower  
 ![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekSpiralTower.png)
 
+Honeybloom Galaxy/FlowerHighlandTree  
+![Image](/SMG2/Honeybloom%20Galaxy/FlowerHighlandTree.png)
+
 Tall Trunk Galaxy/TubeSliderGoalTree  
 ![Image](/SMG2/Tall%20Trunk%20Galaxy/TubeSliderGoalTree.png)
 
