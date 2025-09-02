@@ -16,6 +16,9 @@ Good Egg Galaxy/DiskGardenPlanetHouse
 Space Junk Galaxy/KoopaShipFunnel  
 ![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
 
+Space Junk Galaxy/SmallMazePedestal  
+![Image](/SMG/Space%20Junk%20Galaxy/SmallMazePedestal.png)
+
 Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachPalmTree.png)
 
