@@ -22,6 +22,9 @@ Space Junk Galaxy/SmallMazePedestal
 Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachPalmTree.png)
 
+Gusty Garden Galaxy/DandelionHillTree  
+![Image](/SMG/Gusty%20Garden%20Galaxy/DandelionHillTree.png)
+
 Boo's Boneyard Galaxy/TeresaWall  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/TeresaWall.png)
 
