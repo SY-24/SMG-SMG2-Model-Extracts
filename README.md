@@ -53,6 +53,9 @@ Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)
 Cosmic Cove Galaxy/StarCreekFloaterPlatform  
 ![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekFloaterPlatform.png)
 
+Cosmic Cove Galaxy/StarCreekShell (by Gabbo)  
+![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekShell.png)
+
 Cosmic Cove Galaxy/StarCreekSpiralTower  
 ![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekSpiralTower.png)
 
@@ -64,6 +67,9 @@ Tall Trunk Galaxy/TubeSliderGoalTree
 
 Cloudy Court Galaxy/SkyIslandDinosaur  
 ![Image](/SMG2/Cloudy%20Court%20Galaxy/SkyIslandDinosaur.png)
+
+Freezy Flake Galaxy/SnowCabin  
+![Image](/SMG2/Freezy%20Flake%20Galaxy/SnowCabin.png)
 
 Freezy Flake Galaxy/WhiteOutPlanetStar  
 ![Image](/SMG2/Freezy%20Flake%20Galaxy/WhiteOutPlanetStar.png)
