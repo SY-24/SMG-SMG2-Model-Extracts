@@ -77,6 +77,9 @@ Freezy Flake Galaxy/WhiteOutPlanetStar
 Rolling Masterpiece Galaxy/TamakoroPaletteStep  
 ![Image](/SMG2/Rolling%20Masterpiece%20Galaxy/TamakoroPaletteStep.png)
 
+Starshine Beach Galaxy/TropicalMontePedestal  
+![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalMontePedestal.png)
+
 Starshine Beach Galaxy/TropicalTikiHut  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalTikiHut.png)
 
