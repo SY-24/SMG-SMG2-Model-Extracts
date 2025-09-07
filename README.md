@@ -94,3 +94,6 @@ Clockwork Ruins Galaxy/AncientExcavationTree
 
 Mario Squared Galaxy/MarioOnMarioStartStep  
 ![Image](/SMG2/Mario%20Squared%20Galaxy/MarioOnMarioStartStep.png)
+
+Rolling Coaster Galaxy/SliderStepA  
+![Image](/SMG2/Rolling%20Coaster%20Galaxy/SliderStepA.png)
