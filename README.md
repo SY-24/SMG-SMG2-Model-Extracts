@@ -89,6 +89,9 @@ Slipsand Galaxy/GorogoroPyramid (by Gabbo)
 Slipsand Galaxy/PyramidGoalPlatform  
 ![Image](/SMG2/Slipsand%20Galaxy/PyramidGoalPlatform.png)
 
+Shiverburn Galaxy/HellValleySkyTree  
+![Image](/SMG2/Shiverburn%20Galaxy/HellValleySkyTree.png)
+
 Clockwork Ruins Galaxy/AncientExcavationTree  
 ![Image](/SMG2/Clockwork%20Ruins%20Galaxy/AncientExcavationTree.png)
 
