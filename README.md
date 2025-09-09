@@ -25,6 +25,9 @@ Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)
 Gusty Garden Galaxy/DandelionHillTree  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/DandelionHillTree.png)
 
+Boo's Boneyard Galaxy/DeathPromenadeArrow  
+![Image](/SMG/Boo's%20Boneyard%20Galaxy/DeathPromenadeArrow.png)
+
 Boo's Boneyard Galaxy/TeresaWall  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/TeresaWall.png)
 
@@ -91,6 +94,9 @@ Slipsand Galaxy/PyramidGoalPlatform
 
 Shiverburn Galaxy/HellValleySkyTree  
 ![Image](/SMG2/Shiverburn%20Galaxy/HellValleySkyTree.png)
+
+Clockwork Ruins Galaxy/AncientExcavationCliffBoard  
+![Image](/SMG2/Clockwork%20Ruins%20Galaxy/AncientExcavationCliffBoard.png)
 
 Clockwork Ruins Galaxy/AncientExcavationTree  
 ![Image](/SMG2/Clockwork%20Ruins%20Galaxy/AncientExcavationTree.png)
