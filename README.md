@@ -74,6 +74,9 @@ Tall Trunk Galaxy/TubeSliderGoalTree
 Cloudy Court Galaxy/SkyIslandDinosaur  
 ![Image](/SMG2/Cloudy%20Court%20Galaxy/SkyIslandDinosaur.png)
 
+Cloudy Court Galaxy/SkyIslandHippo  
+![Image](/SMG2/Cloudy%20Court%20Galaxy/SkyIslandHippo.png)
+
 Freezy Flake Galaxy/SnowCabin  
 ![Image](/SMG2/Freezy%20Flake%20Galaxy/SnowCabin.png)
 
