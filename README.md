@@ -4,6 +4,9 @@ Extracted models from SMG and SMG2 for modders to use.
 Use the Issues page to request models.
 
 # SMG
+E3 Star World/HomePlanetArch (A through F)  
+![Image](/SMG/E3%20Star%20World/HomePlanetArch.png)
+
 Comet Observatory/AstroDomeWellBase  
 ![Image](/SMG/Comet%20Observatory/AstroDomeWellBase.png)
 
