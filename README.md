@@ -22,6 +22,9 @@ Space Junk Galaxy/KoopaShipFunnel
 Space Junk Galaxy/SmallMazePedestal  
 ![Image](/SMG/Space%20Junk%20Galaxy/SmallMazePedestal.png)
 
+Rolling Green Galaxy/WindMillBase  
+![Image](/SMG/Rolling%20Green%20Galaxy/WindMillBase.png)
+
 Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachPalmTree.png)
 
