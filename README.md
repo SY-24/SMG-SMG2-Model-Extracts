@@ -40,6 +40,9 @@ Boo's Boneyard Galaxy/TeresaWall
 Dreadnought Galaxy/WanwanGoya (Single and Double)  
 ![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
+Dreadnought Galaxy/CannonFortressFunnel)  
+![Image](/SMG/Dreadnought%20Galaxy/CannonFortressFunnel.png)
+
 Matter Splatter Galaxy/DarkHopperOneWayStep  
 ![Image](/SMG/Matter%20Splatter%20Galaxy/DarkHopperOneWayStep.png)
 
