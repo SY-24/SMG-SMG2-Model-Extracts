@@ -49,6 +49,12 @@ Dreadnought Galaxy/CannonFortressFunnel)
 Matter Splatter Galaxy/DarkHopperOneWayStep  
 ![Image](/SMG/Matter%20Splatter%20Galaxy/DarkHopperOneWayStep.png)
 
+Rolling Gizmo Galaxy/ChallengeBallFunnel  
+![Image](/SMG/Rolling%20Gizmo%20Galaxy/ChallengeBallFunnel.png)
+
+Rolling Gizmo Galaxy/ChallengeBallRamp  
+![Image](/SMG/Rolling%20Gizmo%20Galaxy/ChallengeBallRamp.png)
+
 # SMG2
 Sky Station Galaxy/IslandFleetMagnumKillerLauncher  
 ![Image](/SMG2/Sky%20Station%20Galaxy/IslandFleetMagnumKillerLauncher.png)
