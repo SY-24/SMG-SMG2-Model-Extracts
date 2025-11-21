@@ -37,6 +37,9 @@ Gusty Garden Galaxy/DandelionHillTree
 Boo's Boneyard Galaxy/DeathPromenadeArrow  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/DeathPromenadeArrow.png)
 
+Boo's Boneyard Galaxy/SkullStep  
+![Image](/SMG/Boo's%20Boneyard%20Galaxy/SkullStep.png)
+
 Boo's Boneyard Galaxy/TeresaWall  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/TeresaWall.png)
 
