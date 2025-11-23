@@ -16,6 +16,9 @@ Comet Observatory/AstroTorchStand
 Good Egg Galaxy/DiskGardenPlanetHouse  
 ![Image](/SMG/Good%20Egg%20Galaxy/DiskGardenPlanetHouse.png)
 
+Good Egg Galaxy/RockSpawner  
+![Image](/SMG/Good%20Egg%20Galaxy/RockSpawner.png)
+
 Space Junk Galaxy/KoopaShipFunnel  
 ![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
 
