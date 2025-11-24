@@ -125,6 +125,9 @@ Slipsand Galaxy/PyramidGoalPlatform
 Shiverburn Galaxy/HellValleySkyTree  
 ![Image](/SMG2/Shiverburn%20Galaxy/HellValleySkyTree.png)
 
+Boo Moon Galaxy/TeresaLattice (Gold and Silver)  
+![Image](/SMG2/Boo%20Moon%20Galaxy/TeresaLattice.png)
+
 Clockwork Ruins Galaxy/AncientExcavationCliffBoard  
 ![Image](/SMG2/Clockwork%20Ruins%20Galaxy/AncientExcavationCliffBoard.png)
 
