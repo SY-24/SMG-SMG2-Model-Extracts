@@ -74,6 +74,9 @@ Flip-Swap Galaxy/RedBlueExStepSingle (A and B)
 Puzzle Plank Galaxy/CoinRoomBrickBluePlanet  
 ![Image](/SMG2/Puzzle%20Plank%20Galaxy/CoinRoomBrickBluePlanet.png)
 
+Boulder Bowl Galaxy/GoroRockPedestal  
+![Image](/SMG2/Boulder%20Bowl%20Galaxy/GoroRockPedestal.png)
+
 Hightail Falls Galaxy/DashYoshiBridge (Fence, FenceCorner (Red and Blue), Slope and Step)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/DashYoshiBridge.png)
 
