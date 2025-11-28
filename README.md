@@ -145,3 +145,6 @@ Mario Squared Galaxy/MarioOnMarioStartStep
 
 Rolling Coaster Galaxy/SliderStepA  
 ![Image](/SMG2/Rolling%20Coaster%20Galaxy/SliderStepA.png)
+
+Flip-Out Galaxy/NeedleTrapBase  
+![Image](/SMG2/Flip-Out%20Galaxy/NeedleTrapBase.png)
