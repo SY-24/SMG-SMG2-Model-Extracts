@@ -34,6 +34,9 @@ Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)
 Ghostly Galaxy/TeresaMansionBase  
 ![Image](/SMG/Ghostly%20Galaxy/TeresaMansionBase.png)
 
+Gusty Garden Galaxy/LatticePlanet & LatticePlanetLow  
+![Image](/SMG/Gusty%20Garden%20Galaxy/LatticePlanet.png)
+
 Gusty Garden Galaxy/DandelionHillTree  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/DandelionHillTree.png)
 
