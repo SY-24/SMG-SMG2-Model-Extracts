@@ -151,3 +151,7 @@ Rolling Coaster Galaxy/SliderStepA
 
 Flip-Out Galaxy/NeedleTrapBase  
 ![Image](/SMG2/Flip-Out%20Galaxy/NeedleTrapBase.png)
+
+# Misc
+Misc/SMS/DebugPlanet  
+![Image](/Misc/SMS/DebugPlanet.png)
