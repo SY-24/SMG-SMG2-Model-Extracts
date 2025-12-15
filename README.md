@@ -65,6 +65,9 @@ Rolling Gizmo Galaxy/ChallengeBallRamp
 ![Image](/SMG/Rolling%20Gizmo%20Galaxy/ChallengeBallRamp.png)
 
 # SMG2
+File Select/FileSelectPlanet  
+![Image](/SMG2/File%20Select/FileSelectPlanet.png)
+
 Sky Station Galaxy/IslandFleetMagnumKillerLauncher  
 ![Image](/SMG2/Sky%20Station%20Galaxy/IslandFleetMagnumKillerLauncher.png)
 
