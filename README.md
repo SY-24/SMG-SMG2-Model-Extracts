@@ -19,6 +19,9 @@ Good Egg Galaxy/DiskGardenPlanetHouse
 Good Egg Galaxy/RockSpawner  
 ![Image](/SMG/Good%20Egg%20Galaxy/RockSpawner.png)
 
+Honeyhive Galaxy/ForestHomeTower  
+![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
+
 Space Junk Galaxy/KoopaShipFunnel  
 ![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
 
