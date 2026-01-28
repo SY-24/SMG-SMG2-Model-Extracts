@@ -116,6 +116,9 @@ Cloudy Court Galaxy/SkyIslandHippo
 Freezy Flake Galaxy/SnowCabin  
 ![Image](/SMG2/Freezy%20Flake%20Galaxy/SnowCabin.png)
 
+Freezy Flake Galaxy/WhiteOutCliffBoard  
+![Image](/SMG2/Freezy%20Flake%20Galaxy/WhiteOutCliffBoard.png)
+
 Freezy Flake Galaxy/WhiteOutPlanetStar  
 ![Image](/SMG2/Freezy%20Flake%20Galaxy/WhiteOutPlanetStar.png)
 
