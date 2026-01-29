@@ -164,3 +164,6 @@ Flip-Out Galaxy/NeedleTrapBase
 # Misc
 Misc/SMS/DebugPlanet  
 ![Image](/Misc/SMS/DebugPlanet.png)
+
+Misc/DKJB/Aurora Glacier/Aurora (A and B)  
+![Image](/Misc/DKJB/Aurora Glacier/AuroraAB.png)
