@@ -13,6 +13,9 @@ Comet Observatory/AstroDomeWellBase
 Comet Observatory/AstroTorchStand  
 ![Image](/SMG/Comet%20Observatory/AstroTorchStand.png)
 
+Comet Observatory/RosettaTelescope  
+![Image](/SMG/Comet%20Observatory/RosettaTelescope.png)
+
 Good Egg Galaxy/DiskGardenPlanetHouse  
 ![Image](/SMG/Good%20Egg%20Galaxy/DiskGardenPlanetHouse.png)
 
