@@ -170,3 +170,9 @@ Misc/SMS/DebugPlanet
 
 Misc/DKJB/Aurora Glacier/Aurora (A and B)  
 ![Image](/Misc/DKJB/Aurora%20Glacier/AuroraAB.png)
+
+Misc/DKJB/Arctic Plunge/IcebergSectionA  
+![Image](/Misc/DKJB/Arctic%20Plunge/IcebergSectionA.png)
+
+Misc/DKJB/Arctic Plunge/IcebergDecoratePartsA  
+![Image](/Misc/DKJB/Arctic%20Plunge/IcebergDecoratePartsA.png)
