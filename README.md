@@ -174,5 +174,11 @@ Misc/DKJB/Aurora Glacier/Aurora (A and B)
 Misc/DKJB/Arctic Plunge/IcebergSectionA  
 ![Image](/Misc/DKJB/Arctic%20Plunge/IcebergSectionA.png)
 
+Misc/DKJB/Arctic Plunge/IcebergSpikeA  
+![Image](/Misc/DKJB/Arctic%20Plunge/IcebergSpikeA.png)
+
+Misc/DKJB/Arctic Plunge/IcebergPillarA  
+![Image](/Misc/DKJB/Arctic%20Plunge/IcebergPillarA.png)
+
 Misc/DKJB/Arctic Plunge/IcebergDecoratePartsA  
 ![Image](/Misc/DKJB/Arctic%20Plunge/IcebergDecoratePartsA.png)
