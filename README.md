@@ -149,6 +149,9 @@ Shiverburn Galaxy/HellValleySkyTree
 Boo Moon Galaxy/TeresaLattice (Gold and Silver)  
 ![Image](/SMG2/Boo%20Moon%20Galaxy/TeresaLattice.png)
 
+Melty Monster Galaxy/GoroRockDashGoalStep  
+![Image](/SMG2/Melty%20Monster%20Galaxy/GoroRockDashGoalStep.png)
+
 Clockwork Ruins Galaxy/AncientExcavationCliffBoard  
 ![Image](/SMG2/Clockwork%20Ruins%20Galaxy/AncientExcavationCliffBoard.png)
 
