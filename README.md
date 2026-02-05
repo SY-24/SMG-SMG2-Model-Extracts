@@ -46,6 +46,9 @@ Gusty Garden Galaxy/LatticePlanet & LatticePlanetLow
 Gusty Garden Galaxy/DandelionHillTree  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/DandelionHillTree.png)
 
+Freezeflame Galaxy/MichihikiSnowStep (A through D)  
+![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
+
 Boo's Boneyard Galaxy/DeathPromenadeArrow  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/DeathPromenadeArrow.png)
 
