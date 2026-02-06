@@ -25,6 +25,12 @@ Good Egg Galaxy/RockSpawner
 Honeyhive Galaxy/ForestHomeTower  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
 
+Sweet Sweet Galaxy/HoleBeltConveyerCake  
+![Image](/SMG/Sweet%20Sweet%20Galaxy/HoleBeltConveyerCake.png)
+
+Sweet Sweet Galaxy/HoleBeltConveyerWaffle  
+![Image](/SMG/Sweet%20Sweet%20Galaxy/HoleBeltConveyerWaffle.png)
+
 Space Junk Galaxy/KoopaShipFunnel  
 ![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
 
