@@ -55,6 +55,9 @@ Gusty Garden Galaxy/DandelionHillTree
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
+Toy Time Galaxy/IceSlipStep (A through C)  
+![Image](/SMG/Toy%20Time%20Galaxy/IceSlipStep.png)
+
 Boo's Boneyard Galaxy/DeathPromenadeArrow  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/DeathPromenadeArrow.png)
 
