@@ -58,6 +58,9 @@ Gusty Garden Galaxy/DandelionHillTree
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
+Toy Time Galaxy/ChooChooTrainDecorate  
+![Image](/SMG/Toy%20Time%20Galaxy/ChooChooTrainDecorate.png)
+
 Toy Time Galaxy/IceSlipStep (A through C)  
 ![Image](/SMG/Toy%20Time%20Galaxy/IceSlipStep.png)
 
