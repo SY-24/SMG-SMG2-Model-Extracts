@@ -113,6 +113,9 @@ Hightail Falls Galaxy/DashYoshiBridge (Fence, FenceCorner (Red and Blue), Slope 
 Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/WoodLogBridgeGate.png)
 
+Wild Glide Galaxy/GliderStartWoodStep  
+![Image](/SMG2/Wild%20Glide%20Galaxy/GliderStartWoodStep.png)
+
 Cosmic Cove Galaxy/StarCreekFloaterPlatform  
 ![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekFloaterPlatform.png)
 
