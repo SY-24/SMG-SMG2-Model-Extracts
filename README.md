@@ -201,6 +201,9 @@ Flip-Out Galaxy/NeedleTrapBase
 Misc/SMS/DebugPlanet  
 ![Image](/Misc/SMS/DebugPlanet.png)
 
+Misc/SMS/Delfino Plaza/DolpicCannonStep  
+![Image](/Misc/SMS/Delfino%20Plaza/DolpicCannonStep.png)
+
 Misc/DKJB/Aurora Glacier/Aurora (A and B)  
 ![Image](/Misc/DKJB/Aurora%20Glacier/AuroraAB.png)
 
