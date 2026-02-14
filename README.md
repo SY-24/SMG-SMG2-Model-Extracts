@@ -46,6 +46,9 @@ Rolling Green Galaxy/WindMillBase
 Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachPalmTree.png)
 
+Beach Bowl Galaxy/HeavenlyBeachWaterBowl  
+![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachWaterBowl.png)
+
 Ghostly Galaxy/TeresaMansionBase  
 ![Image](/SMG/Ghostly%20Galaxy/TeresaMansionBase.png)
 
