@@ -1,5 +1,5 @@
 # SMG-SMG2-Model-Extracts
-Extracted models from SMG and SMG2 for modders to use.
+Extracted models that modders can use in SMG or SMG2.
 
 Use the Issues page to request models.
 
