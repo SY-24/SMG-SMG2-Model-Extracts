@@ -95,6 +95,12 @@ Rolling Gizmo Galaxy/ChallengeBallRamp
 File Select/FileSelectPlanet  
 ![Image](/SMG2/File%20Select/FileSelectPlanet.png)
 
+Castle Grounds/PeachCastle  
+![Image](/SMG2/Castle%20Grounds/PeachCastle.png)
+
+Castle Grounds/PeachCastleBridge  
+![Image](/SMG2/Castle%20Grounds/PeachCastleBridge.png)
+
 Sky Station Galaxy/IslandFleetMagnumKillerLauncher  
 ![Image](/SMG2/Sky%20Station%20Galaxy/IslandFleetMagnumKillerLauncher.png)
 
