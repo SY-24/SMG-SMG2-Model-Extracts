@@ -167,6 +167,9 @@ Rolling Masterpiece Galaxy/TamakoroPaletteStep
 Flipsville Galaxy/TallWoodenFence (Short and Long)  
 ![Image](/SMG2/Flipsville%20Galaxy/TallWoodenFence.png)
 
+Starshine Beach Galaxy/TropicalCloudTower  
+![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalCloudTower.png)
+
 Starshine Beach Galaxy/TropicalMontePedestal  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalMontePedestal.png)
 
