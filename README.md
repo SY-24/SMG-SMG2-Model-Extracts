@@ -7,11 +7,14 @@ Use the Issues page to request models.
 E3 Star World/HomePlanetArch (A through F)  
 ![Image](/SMG/E3%20Star%20World/HomePlanetArch.png)
 
-Comet Observatory/AstroParkingStep  
-![Image](/SMG/Comet%20Observatory/AstroParkingStep.png)
+Comet Observatory/AstroDomeBedRoomBed  
+![Image](/SMG/Comet%20Observatory/AstroDomeBedRoomBed.png)
 
 Comet Observatory/AstroDomeWellBase  
 ![Image](/SMG/Comet%20Observatory/AstroDomeWellBase.png)
+
+Comet Observatory/AstroParkingStep  
+![Image](/SMG/Comet%20Observatory/AstroParkingStep.png)
 
 Comet Observatory/AstroTorchStand  
 ![Image](/SMG/Comet%20Observatory/AstroTorchStand.png)
