@@ -95,6 +95,9 @@ Rolling Gizmo Galaxy/ChallengeBallRamp
 ![Image](/SMG/Rolling%20Gizmo%20Galaxy/ChallengeBallRamp.png)
 
 # SMG2
+File Select/ArrowBoard (000 through 180)  
+![Image](/SMG2/_Extras/ArrowBoard.png)
+
 File Select/FileSelectPlanet  
 ![Image](/SMG2/File%20Select/FileSelectPlanet.png)
 
