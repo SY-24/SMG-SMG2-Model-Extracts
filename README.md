@@ -64,6 +64,9 @@ Gusty Garden Galaxy/DandelionHillTree
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
+Gold Leaf Galaxy/ForestNarrowStepACircle & Beam  
+![Image](/SMG/Gold%20Leaf%20Galaxy/ForestNarrowStepABeamCircle.png)
+
 Toy Time Galaxy/ChooChooTrainDecorate  
 ![Image](/SMG/Toy%20Time%20Galaxy/ChooChooTrainDecorate.png)
 
