@@ -73,6 +73,12 @@ Toy Time Galaxy/ChooChooTrainDecorate
 Toy Time Galaxy/IceSlipStep (A through C)  
 ![Image](/SMG/Toy%20Time%20Galaxy/IceSlipStep.png)
 
+Sand Spiral Galaxy/WaterRoadCaveBridge  
+![Image](/SMG/Sand%20Spiral%20Galaxy/WaterRoadCaveBridge.png)
+
+Sand Spiral Galaxy/WaterRoadCaveStep  
+![Image](/SMG/Sand%20Spiral%20Galaxy/WaterRoadCaveStep.png)
+
 Boo's Boneyard Galaxy/DeathPromenadeArrow  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/DeathPromenadeArrow.png)
 
