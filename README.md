@@ -55,6 +55,9 @@ Beach Bowl Galaxy/HeavenlyBeachWaterBowl
 Ghostly Galaxy/TeresaMansionBase  
 ![Image](/SMG/Ghostly%20Galaxy/TeresaMansionBase.png)
 
+Buoy Base Galaxy/FloaterLandStep  
+![Image](/SMG/Buoy%20Base%20Galaxy/FloaterLandStep.png)
+
 Gusty Garden Galaxy/LatticePlanet & LatticePlanetLow  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/LatticePlanet.png)
 
@@ -102,6 +105,9 @@ Rolling Gizmo Galaxy/ChallengeBallFunnel
 
 Rolling Gizmo Galaxy/ChallengeBallRamp  
 ![Image](/SMG/Rolling%20Gizmo%20Galaxy/ChallengeBallRamp.png)
+
+Bowser's Galaxy Reactor/DryIcePlanet & DryIceSnowStep  
+![Image](/SMG/Bowser's%20Galaxy%20Reactor/DryIcePlanetStep.png)
 
 # SMG2
 _Extras/ArrowBoard (000 through 180)  
