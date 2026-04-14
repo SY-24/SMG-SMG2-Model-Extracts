@@ -215,6 +215,9 @@ Boo Moon Galaxy/TeresaLattice (Gold and Silver)
 Fleet Glide Galaxy/ChallengeGliderStartStep  
 ![Image](/SMG2/Fleet%20Glide%20Galaxy/ChallengeGliderStartStep.png)
 
+Melty Monster Galaxy/MagmaSeaWaveStep (A through C)  
+![Image](/SMG2/Melty%20Monster%20Galaxy/MagmaSeaWaveStep.png)
+
 Melty Monster Galaxy/GoroRockDashGoalStep  
 ![Image](/SMG2/Melty%20Monster%20Galaxy/GoroRockDashGoalStep.png)
 
