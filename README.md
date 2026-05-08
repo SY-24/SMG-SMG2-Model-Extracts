@@ -40,11 +40,17 @@ Sweet Sweet Galaxy/HoleBeltConveyerCake
 Sweet Sweet Galaxy/HoleBeltConveyerWaffle  
 ![Image](/SMG/Sweet%20Sweet%20Galaxy/HoleBeltConveyerWaffle.png)
 
-Space Junk Galaxy/KoopaShipFunnel  
-![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
+Space Junk Galaxy/SmallMazeGlassHolePlanet  
+![Image](/SMG/Space%20Junk%20Galaxy/SmallMazeGlassHolePlanet.png)
+
+Space Junk Galaxy/SmallMazeGlassPlanet  
+![Image](/SMG/Space%20Junk%20Galaxy/SmallMazeGlassPlanet.png)
 
 Space Junk Galaxy/SmallMazePedestal  
 ![Image](/SMG/Space%20Junk%20Galaxy/SmallMazePedestal.png)
+
+Space Junk Galaxy/KoopaShipFunnel  
+![Image](/SMG/Space%20Junk%20Galaxy/KoopaShipFunnel.png)
 
 Rolling Green Galaxy/WindMillBase  
 ![Image](/SMG/Rolling%20Green%20Galaxy/WindMillBase.png)
