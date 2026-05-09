@@ -46,6 +46,9 @@ Space Junk Galaxy/SmallMazeGlassHolePlanet
 Space Junk Galaxy/SmallMazeGlassPlanet  
 ![Image](/SMG/Space%20Junk%20Galaxy/SmallMazeGlassPlanet.png)
 
+Space Junk Galaxy/SmallMazeNoGlassPlanet  
+![Image](/SMG/Space%20Junk%20Galaxy/SmallMazeNoGlassPlanet.png)
+
 Space Junk Galaxy/SmallMazePedestal  
 ![Image](/SMG/Space%20Junk%20Galaxy/SmallMazePedestal.png)
 
