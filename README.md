@@ -7,6 +7,9 @@ Use the Issues page to request models.
 E3 Star World/HomePlanetArch (A through F)  
 ![Image](/SMG/E3%20Star%20World/HomePlanetArch.png)
 
+E3 Star World/HomePlanetEgg  
+![Image](/SMG/E3%20Star%20World/HomePlanetEgg.png)
+
 Comet Observatory/AstroDomeBedRoomBed  
 ![Image](/SMG/Comet%20Observatory/AstroDomeBedRoomBed.png)
 
