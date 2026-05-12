@@ -34,6 +34,9 @@ Good Egg Galaxy/RockSpawner
 Honeyhive Galaxy/ForestHomeTower  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
 
+Loopdeeloop Galaxy/SurfingRaceTutorialStep  
+![Image](/SMG/Loopdeeloop%20Galaxy/SurfingRaceTutorialStep.png)
+
 Sweet Sweet Galaxy/HoleBeltConveyerIceCream  
 ![Image](/SMG/Sweet%20Sweet%20Galaxy/HoleBeltConveyerIceCream.png)
 
