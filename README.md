@@ -31,6 +31,9 @@ Good Egg Galaxy/DiskGardenPlanetHouse
 Good Egg Galaxy/RockSpawner  
 ![Image](/SMG/Good%20Egg%20Galaxy/RockSpawner.png)
 
+Honeyhive Galaxy/ForestHomeWallJumpBoard  
+![Image](/SMG/Honeyhive%20Galaxy/ForestHomeWallJumpBoard.png)
+
 Honeyhive Galaxy/ForestHomeTower  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
 
