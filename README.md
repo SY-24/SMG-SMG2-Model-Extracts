@@ -236,6 +236,9 @@ Fleet Glide Galaxy/ChallengeGliderStartStep
 Melty Monster Galaxy/MagmaSeaWaveStep (A through C)  
 ![Image](/SMG2/Melty%20Monster%20Galaxy/MagmaSeaWaveStep.png)
 
+Melty Monster Galaxy/GoroRockLane (StartStep, ArrowStep and Step)  
+![Image](/SMG2/Melty%20Monster%20Galaxy/GoroRockLane.png)
+
 Melty Monster Galaxy/GoroRockDashGoalStep  
 ![Image](/SMG2/Melty%20Monster%20Galaxy/GoroRockDashGoalStep.png)
 
