@@ -10,6 +10,9 @@ E3 Star World/HomePlanetArch (A through F)
 E3 Star World/HomePlanetEgg  
 ![Image](/SMG/E3%20Star%20World/HomePlanetEgg.png)
 
+Gateway Galaxy/HeavensDoorStarPedestal  
+![Image](/SMG/Gateway%20Galaxy/HeavensDoorStarPedestal.png)
+
 Comet Observatory/AstroDomeBedRoomBed  
 ![Image](/SMG/Comet%20Observatory/AstroDomeBedRoomBed.png)
 
