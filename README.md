@@ -152,6 +152,9 @@ Sky Station Galaxy/IslandFleetMagnumKillerLauncher
 Yoshi Star Galaxy/YoshiCaughtVolcano  
 ![Image](/SMG2/Yoshi%20Star%20Galaxy/YoshiCaughtVolcano.png)
 
+Yoshi Star Galaxy/MiniDiskPlanet  
+![Image](/SMG2/Yoshi%20Star%20Galaxy/MiniDiskPlanet.png)
+
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
 
