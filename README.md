@@ -94,6 +94,9 @@ Freezeflame Galaxy/MichihikiSnowStep (A through D)
 Gold Leaf Galaxy/ForestNarrowStepACircle & Beam  
 ![Image](/SMG/Gold%20Leaf%20Galaxy/ForestNarrowStepABeamCircle.png)
 
+Sea Slide Galaxy/OceanRingRock (A and B)  
+![Image](/SMG/Sea%20Slide%20Galaxy/OceanRingRockAB.png)
+
 Toy Time Galaxy/ChooChooTrainDecorate  
 ![Image](/SMG/Toy%20Time%20Galaxy/ChooChooTrainDecorate.png)
 
