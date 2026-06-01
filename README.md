@@ -118,6 +118,9 @@ Boo's Boneyard Galaxy/SkullStep
 Boo's Boneyard Galaxy/TeresaWall  
 ![Image](/SMG/Boo's%20Boneyard%20Galaxy/TeresaWall.png)
 
+Dreadnought Galaxy/SeesawMoveNutScrew & SeesawMoveNutFix (A through C)  
+![Image](/SMG/Dreadnought%20Galaxy/SeesawMoveNutScrewFix.png)
+
 Dreadnought Galaxy/WanwanGoya (Single and Double)  
 ![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
