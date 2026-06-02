@@ -121,10 +121,13 @@ Boo's Boneyard Galaxy/TeresaWall
 Dreadnought Galaxy/SeesawMoveNutScrew & SeesawMoveNutFix (A through C)  
 ![Image](/SMG/Dreadnought%20Galaxy/SeesawMoveNutScrewFix.png)
 
+Dreadnought Galaxy/FleetPlanetStep  
+![Image](/SMG/Dreadnought%20Galaxy/FleetPlanetStep.png)
+
 Dreadnought Galaxy/WanwanGoya (Single and Double)  
 ![Image](/SMG/Dreadnought%20Galaxy/WanwanGoya.png)
 
-Dreadnought Galaxy/CannonFortressFunnel)  
+Dreadnought Galaxy/CannonFortressFunnel  
 ![Image](/SMG/Dreadnought%20Galaxy/CannonFortressFunnel.png)
 
 Matter Splatter Galaxy/DarkHopperOneWayStep  
