@@ -233,6 +233,9 @@ Starshine Beach Galaxy/TropicalMontePedestal
 Starshine Beach Galaxy/TropicalTikiHut  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalTikiHut.png)
 
+Chompworks Galaxy/WanwanLauncher  
+![Image](/SMG2/Chompworks%20Galaxy/WanwanLauncher.png)
+
 Slipsand Galaxy/GorogoroPyramid (by Gabbo)  
 ![Image](/SMG2/Slipsand%20Galaxy/GorogoroPyramid.png)
 
