@@ -167,6 +167,9 @@ Yoshi Star Galaxy/MiniDiskPlanet
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
 
+Fluffy Bluff Galaxy/WaterAcrossPedestal  
+![Image](/SMG2/Fluffy%20Bluff%20Galaxy/WaterAcrossPedestal.png)
+
 Puzzle Plank Galaxy/CoinRoomBrickBluePlanet  
 ![Image](/SMG2/Puzzle%20Plank%20Galaxy/CoinRoomBrickBluePlanet.png)
 
