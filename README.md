@@ -170,6 +170,9 @@ Flip-Swap Galaxy/RedBlueExStepSingle (A and B)
 Fluffy Bluff Galaxy/WaterAcrossPedestal  
 ![Image](/SMG2/Fluffy%20Bluff%20Galaxy/WaterAcrossPedestal.png)
 
+Fluffy Bluff Galaxy/CloudClimbMountain  
+![Image](/SMG2/Fluffy%20Bluff%20Galaxy/CloudClimbMountain.png)
+
 Puzzle Plank Galaxy/CoinRoomBrickBluePlanet  
 ![Image](/SMG2/Puzzle%20Plank%20Galaxy/CoinRoomBrickBluePlanet.png)
 
