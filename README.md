@@ -37,6 +37,9 @@ Good Egg Galaxy/RockSpawner
 Honeyhive Galaxy/ForestHomeWallJumpBoard  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeWallJumpBoard.png)
 
+Honeyhive Galaxy/ForestHomeKinopioStep (by Xandog)  
+![Image](/SMG/Honeyhive%20Galaxy/ForestHomeKinopioStep.png)
+
 Honeyhive Galaxy/ForestHomeTower  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
 
