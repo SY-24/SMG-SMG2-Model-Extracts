@@ -136,6 +136,9 @@ Dreadnought Galaxy/CannonFortressFunnel
 Matter Splatter Galaxy/DarkHopperOneWayStep  
 ![Image](/SMG/Matter%20Splatter%20Galaxy/DarkHopperOneWayStep.png)
 
+Melty Molten Galaxy/DarkHopperOneWayStep  
+![Image](/SMG/Melty%20Molten%20Galaxy/HellBallStep.png)
+
 Rolling Gizmo Galaxy/ChallengeBallFunnel  
 ![Image](/SMG/Rolling%20Gizmo%20Galaxy/ChallengeBallFunnel.png)
 
