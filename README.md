@@ -43,6 +43,9 @@ Honeyhive Galaxy/ForestHomeKinopioStep (by Xandog)
 Honeyhive Galaxy/ForestHomeTower  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
 
+Honeyhive Galaxy/ForestNarrowStepB  
+![Image](/SMG/Honeyhive%20Galaxy/ForestNarrowStepB.png)
+
 Loopdeeloop Galaxy/SurfingRaceTutorialStep  
 ![Image](/SMG/Loopdeeloop%20Galaxy/SurfingRaceTutorialStep.png)
 
