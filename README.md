@@ -46,6 +46,9 @@ Honeyhive Galaxy/ForestHomeTower
 Honeyhive Galaxy/ForestNarrowStepB  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestNarrowStepB.png)
 
+Honeyhive Galaxy/ForestNarrowStepBWater  
+![Image](/SMG/Honeyhive%20Galaxy/ForestNarrowStepBWater.png)
+
 Loopdeeloop Galaxy/SurfingRaceTutorialStep  
 ![Image](/SMG/Loopdeeloop%20Galaxy/SurfingRaceTutorialStep.png)
 
