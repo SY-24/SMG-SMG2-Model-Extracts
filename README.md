@@ -91,6 +91,9 @@ Beach Bowl Galaxy/HeavenlyBeachWaterBowl
 Ghostly Galaxy/TeresaMansionBase  
 ![Image](/SMG/Ghostly%20Galaxy/TeresaMansionBase.png)
 
+Ghostly Galaxy/MansionGravityRoomBridge  
+![Image](/SMG/Ghostly%20Galaxy/MansionGravityRoomBridge.png)
+
 Buoy Base Galaxy/FloaterLandStep  
 ![Image](/SMG/Buoy%20Base%20Galaxy/FloaterLandStep.png)
 
@@ -202,6 +205,9 @@ Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)
 
 Wild Glide Galaxy/GliderStartWoodStep  
 ![Image](/SMG2/Wild%20Glide%20Galaxy/GliderStartWoodStep.png)
+
+Wild Glide Galaxy/GliderDecorateRainbow  
+![Image](/SMG2/Wild%20Glide%20Galaxy/GliderDecorateRainbow.png)
 
 Cosmic Cove Galaxy/StarCreekFloaterPlatform  
 ![Image](/SMG2/Cosmic%20Cove%20Galaxy/StarCreekFloaterPlatform.png)
