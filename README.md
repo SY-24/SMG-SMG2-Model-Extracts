@@ -148,7 +148,7 @@ Dreadnought Galaxy/CannonFortressFunnel
 Matter Splatter Galaxy/DarkHopperOneWayStep  
 ![Image](/SMG/Matter%20Splatter%20Galaxy/DarkHopperOneWayStep.png)
 
-Melty Molten Galaxy/DarkHopperOneWayStep  
+Melty Molten Galaxy/HellBallStep  
 ![Image](/SMG/Melty%20Molten%20Galaxy/HellBallStep.png)
 
 Rolling Gizmo Galaxy/ChallengeBallFunnel  
@@ -184,6 +184,12 @@ Yoshi Star Galaxy/MiniDiskPlanet
 
 Flip-Swap Galaxy/RedBlueExStepSingle (A and B)  
 ![Image](/SMG2/Flip-Swap%20Galaxy/RedBlueExStepSingle.png)
+
+Fluffy Bluff Galaxy/CloudAcrossFence  
+![Image](/SMG2/Fluffy%20Bluff%20Galaxy/CloudAcrossFence.png)
+
+Fluffy Bluff Galaxy/CloudAcrossCliffBoard  
+![Image](/SMG2/Fluffy%20Bluff%20Galaxy/CloudAcrossCliffBoard.png)
 
 Fluffy Bluff Galaxy/WaterAcrossPedestal  
 ![Image](/SMG2/Fluffy%20Bluff%20Galaxy/WaterAcrossPedestal.png)
