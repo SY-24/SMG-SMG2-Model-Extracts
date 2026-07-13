@@ -40,6 +40,9 @@ Honeyhive Galaxy/ForestHomeWallJumpBoard
 Honeyhive Galaxy/ForestHomeKinopioStep (by Xandog)  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeKinopioStep.png)
 
+Honeyhive Galaxy/ForestObstacleWoodA  
+![Image](/SMG/Honeyhive%20Galaxy/ForestObstacleWoodA.png)
+
 Honeyhive Galaxy/ForestHomeTower  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeTower.png)
 
@@ -256,6 +259,9 @@ Rolling Masterpiece Galaxy/TamakoroPaletteStep
 
 Flipsville Galaxy/TallWoodenFence (Short and Long)  
 ![Image](/SMG2/Flipsville%20Galaxy/TallWoodenFence.png)
+
+Flipsville Galaxy/BossBussunPlanetLow  
+![Image](/SMG2/Flipsville%20Galaxy/BossBussunPlanetLow.png)
 
 Starshine Beach Galaxy/TropicalCloudTower  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalCloudTower.png)
