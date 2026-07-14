@@ -257,6 +257,9 @@ Freezy Flake Galaxy/WhiteOutPlanetStar
 Rolling Masterpiece Galaxy/TamakoroPaletteStep  
 ![Image](/SMG2/Rolling%20Masterpiece%20Galaxy/TamakoroPaletteStep.png)
 
+Flipsville Galaxy/BothSideWanwanPlanetLow  
+![Image](/SMG2/Flipsville%20Galaxy/BothSideWanwanPlanetLow.png)
+
 Flipsville Galaxy/TallWoodenFence (Short and Long)  
 ![Image](/SMG2/Flipsville%20Galaxy/TallWoodenFence.png)
 
