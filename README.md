@@ -112,7 +112,7 @@ Gusty Garden Galaxy/DandelionHillTree
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
-Gold Leaf Galaxy/ForestNarrowStepACircle & Beam  
+Gold Leaf Galaxy/ForestNarrowStepACircle & ForestNarrowStepABeam  
 ![Image](/SMG/Gold%20Leaf%20Galaxy/ForestNarrowStepABeamCircle.png)
 
 Sea Slide Galaxy/OceanRingRock (A and B)  
@@ -181,6 +181,9 @@ Castle Grounds/PeachCastleBridge
 
 Sky Station Galaxy/IslandFleetMagnumKillerLauncher  
 ![Image](/SMG2/Sky%20Station%20Galaxy/IslandFleetMagnumKillerLauncher.png)
+
+Yoshi Star Galaxy/KaronDecoratePartsBone & KaronDecoratePartsBoneSkull  
+![Image](/SMG2/Yoshi%20Star%20Galaxy/KaronDecorateParts.png)
 
 Yoshi Star Galaxy/YoshiCaughtVolcano  
 ![Image](/SMG2/Yoshi%20Star%20Galaxy/YoshiCaughtVolcano.png)
