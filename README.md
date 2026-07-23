@@ -275,6 +275,9 @@ Flipsville Galaxy/TallWoodenFence (Short and Long)
 Flipsville Galaxy/BossBussunPlanetLow  
 ![Image](/SMG2/Flipsville%20Galaxy/BossBussunPlanetLow.png)
 
+Sweet Mystery Galaxy/MysteryMountainDecorateParts  
+![Image](/SMG2/Sweet%20Mystery%20Galaxy/MysteryMountainDecorateParts.png)
+
 Starshine Beach Galaxy/TropicalCloudTower  
 ![Image](/SMG2/Starshine%20Beach%20Galaxy/TropicalCloudTower.png)
 
