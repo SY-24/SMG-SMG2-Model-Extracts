@@ -116,7 +116,7 @@ Gold Leaf Galaxy/ForestNarrowStepACircle & ForestNarrowStepABeam
 ![Image](/SMG/Gold%20Leaf%20Galaxy/ForestNarrowStepABeamCircle.png)
 
 Gold Leaf Galaxy/ReverseKingdomFullPlanet  
-![Image](/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomFullPlanet.mp4)
+https://github.com/SY-24/SMG-SMG2-Model-Extracts/blob/main/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomFullPlanet.mp4
 
 Gold Leaf Galaxy/ReverseKingdomAppearStepA  
 ![Image](/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomAppearStepA.png)
