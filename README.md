@@ -115,6 +115,18 @@ Freezeflame Galaxy/MichihikiSnowStep (A through D)
 Gold Leaf Galaxy/ForestNarrowStepACircle & ForestNarrowStepABeam  
 ![Image](/SMG/Gold%20Leaf%20Galaxy/ForestNarrowStepABeamCircle.png)
 
+Gold Leaf Galaxy/ReverseKingdomFullPlanet  
+![Image](/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomFullPlanet.mp4)
+
+Gold Leaf Galaxy/ReverseKingdomAppearStepA  
+![Image](/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomAppearStepA.png)
+
+Gold Leaf Galaxy/ReverseKingdomObstacleWoodA  
+![Image](/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomObstacleWoodA.png)
+
+Gold Leaf Galaxy/ReverseKingdomPartsTree  
+![Image](/SMG/Gold%20Leaf%20Galaxy/ReverseKingdomPartsTree.png)
+
 Sea Slide Galaxy/OceanRingRock (A and B)  
 ![Image](/SMG/Sea%20Slide%20Galaxy/OceanRingRockAB.png)
 
