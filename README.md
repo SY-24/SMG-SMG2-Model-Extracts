@@ -100,6 +100,9 @@ Ghostly Galaxy/TeresaMansionBase
 Ghostly Galaxy/MansionGravityRoomBridge  
 ![Image](/SMG/Ghostly%20Galaxy/MansionGravityRoomBridge.png)
 
+Ghostly Galaxy/TeresaMansionPlanetA & TeresaMansionPlanetC  
+![Image](/SMG/Ghostly%20Galaxy/TeresaMansionPlanetAC.png)
+
 Buoy Base Galaxy/FloaterLandStep  
 ![Image](/SMG/Buoy%20Base%20Galaxy/FloaterLandStep.png)
 
