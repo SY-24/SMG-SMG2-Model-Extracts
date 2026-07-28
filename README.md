@@ -102,6 +102,7 @@ Ghostly Galaxy/MansionGravityRoomBridge
 
 Ghostly Galaxy/TeresaMansionPlanetA & TeresaMansionPlanetC  
 > *Added collision to vanilla model.*  
+  
 ![Image](/SMG/Ghostly%20Galaxy/TeresaMansionPlanetAC.png)
 
 Buoy Base Galaxy/FloaterLandStep  
@@ -227,6 +228,7 @@ Fluffy Bluff Galaxy/CloudClimbMountain
 
 Rightside Down Galaxy/AbekobeIntroducePlanet  
 > *Added collision to vanilla model.*  
+  
 ![Image](/SMG2/Rightside%20Down%20Galaxy/AbekobeIntroducePlanet.png)
 
 Puzzle Plank Galaxy/CoinRoomBrickBluePlanet  
