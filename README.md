@@ -117,6 +117,9 @@ Gusty Garden Galaxy/DandelionHillTree
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
+Bowser's Dark Matter Plant/KoopaVS2PartsDarkMatterF, KoopaVS2PartsDarkMatterG & KoopaVS2PartsDarkMatterH  
+![Image](/SMG/Bowser's%20Dark%20Matter%20Plant/KoopaVS2PartsDarkMatterFGH.png)
+
 Gold Leaf Galaxy/ForestNarrowStepACircle & ForestNarrowStepABeam  
 ![Image](/SMG/Gold%20Leaf%20Galaxy/ForestNarrowStepABeamCircle.png)
 
