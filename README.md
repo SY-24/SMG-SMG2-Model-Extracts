@@ -234,6 +234,9 @@ Rightside Down Galaxy/AbekobeIntroducePlanet
   
 ![Image](/SMG2/Rightside%20Down%20Galaxy/AbekobeIntroducePlanet.png)
 
+Puzzle Plank Galaxy/BlockPlanet  
+![Image](/SMG2/Puzzle%20Plank%20Galaxy/BlockPlanet.png)
+
 Puzzle Plank Galaxy/CoinRoomBrickBluePlanet  
 ![Image](/SMG2/Puzzle%20Plank%20Galaxy/CoinRoomBrickBluePlanet.png)
 
