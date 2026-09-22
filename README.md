@@ -19,6 +19,9 @@ Comet Observatory/AstroDomeBedRoomBed
 Comet Observatory/AstroDomeWellBase  
 ![Image](/SMG/Comet%20Observatory/AstroDomeWellBase.png)
 
+Comet Observatory/AstroOverlookStep  
+![Image](/SMG/Comet%20Observatory/AstroOverlookStep.png)
+
 Comet Observatory/AstroParkingStep  
 ![Image](/SMG/Comet%20Observatory/AstroParkingStep.png)
 
