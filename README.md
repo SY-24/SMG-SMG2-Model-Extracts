@@ -25,6 +25,9 @@ Comet Observatory/AstroOverlookStep
 Comet Observatory/AstroParkingStep  
 ![Image](/SMG/Comet%20Observatory/AstroParkingStep.png)
 
+Comet Observatory/AstroStarBlock  
+![Image](/SMG/Comet%20Observatory/AstroStarBlock.png)
+
 Comet Observatory/AstroTorchStand  
 ![Image](/SMG/Comet%20Observatory/AstroTorchStand.png)
 
