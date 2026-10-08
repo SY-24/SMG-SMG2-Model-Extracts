@@ -40,6 +40,9 @@ Good Egg Galaxy/DiskGardenPlanetHouse
 Good Egg Galaxy/RockSpawner  
 ![Image](/SMG/Good%20Egg%20Galaxy/RockSpawner.png)
 
+Good Egg Galaxy/BeanStoneStep (A through C)  
+![Image](/SMG/Good%20Egg%20Galaxy/BeanStoneStep.png)
+
 Honeyhive Galaxy/ForestHomeWallJumpBoard  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeWallJumpBoard.png)
 
