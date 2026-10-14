@@ -117,6 +117,9 @@ Ghostly Galaxy/TeresaMansionPlanetA & TeresaMansionPlanetC
 Buoy Base Galaxy/FloaterLandStep  
 ![Image](/SMG/Buoy%20Base%20Galaxy/FloaterLandStep.png)
 
+Drip Drop Galaxy/TearDropIslandBig & TearDropIslandSmall  
+![Image](/SMG/Drip%20Drop%20Galaxy/TearDropIsland.png)
+
 Gusty Garden Galaxy/LatticePlanet & LatticePlanetLow  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/LatticePlanet.png)
 
