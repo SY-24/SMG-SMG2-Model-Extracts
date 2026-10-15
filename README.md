@@ -120,6 +120,9 @@ Buoy Base Galaxy/FloaterLandStep
 Drip Drop Galaxy/TearDropIslandBig & TearDropIslandSmall  
 ![Image](/SMG/Drip%20Drop%20Galaxy/TearDropIsland.png)
 
+Gusty Garden Galaxy/BeanStoneStep (D through F)  
+![Image](/SMG/Gusty%20Garden%20Galaxy/BeanStoneStep.png)
+
 Gusty Garden Galaxy/LatticePlanet & LatticePlanetLow  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/LatticePlanet.png)
 
@@ -129,7 +132,7 @@ Gusty Garden Galaxy/DandelionHillTree
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
-Bowser's Dark Matter Plant/KoopaVS2PartsDarkMatterF, KoopaVS2PartsDarkMatterG & KoopaVS2PartsDarkMatterH  
+Bowser's Dark Matter Plant/KoopaVS2PartsDarkMatter (F through H)  
 ![Image](/SMG/Bowser's%20Dark%20Matter%20Plant/KoopaVS2PartsDarkMatterFGH.png)
 
 Gold Leaf Galaxy/ForestNarrowStepACircle & ForestNarrowStepABeam  
