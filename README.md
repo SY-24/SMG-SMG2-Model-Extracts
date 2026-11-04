@@ -129,6 +129,11 @@ Gusty Garden Galaxy/LatticePlanet & LatticePlanetLow
 Gusty Garden Galaxy/DandelionHillTree  
 ![Image](/SMG/Gusty%20Garden%20Galaxy/DandelionHillTree.png)
 
+Freezeflame Galaxy/IceMountainSeesaw (NoSlipA, SlipA, SlipB, SlipC)  
+> Fixed empty bottom sides.
+  
+![Image](/SMG/Freezeflame%20Galaxy/IceMountainSeesaw.png)
+
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
