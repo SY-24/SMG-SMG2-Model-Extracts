@@ -137,6 +137,9 @@ Freezeflame Galaxy/IceMountainSeesaw (NoSlipA, SlipA, SlipB, SlipC)
 Freezeflame Galaxy/MichihikiSnowStep (A through D)  
 ![Image](/SMG/Freezeflame%20Galaxy/MichihikiSnowStep.png)
 
+Dusty Dune Galaxy/DeathSandStep (A through F)  
+![Image](/SMG/Dusty%20Dune%20Galaxy/DeathSandStep.png)
+
 Bowser's Dark Matter Plant/KoopaVS2PartsDarkMatter (F through H)  
 ![Image](/SMG/Bowser's%20Dark%20Matter%20Plant/KoopaVS2PartsDarkMatterFGH.png)
 
