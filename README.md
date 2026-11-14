@@ -213,6 +213,9 @@ Bowser's Galaxy Reactor/DryIcePlanet & DryIceSnowStep
 _Extras/ArrowBoard (000 through 180)  
 ![Image](/SMG2/_Extras/ArrowBoard.png)
 
+_Extras/UFOKinokoHatch  
+![Image](/SMG2/_Extras/UFOKinokoHatch.png)
+
 File Select/FileSelectPlanet  
 ![Image](/SMG2/File%20Select/FileSelectPlanet.png)
 
