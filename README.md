@@ -43,6 +43,9 @@ Good Egg Galaxy/RockSpawner
 Good Egg Galaxy/BeanStoneStep (A through C)  
 ![Image](/SMG/Good%20Egg%20Galaxy/BeanStoneStep.png)
 
+Good Egg Galaxy/DorayakiFortressBlock  
+![Image](/SMG/Good%20Egg%20Galaxy/DorayakiFortressBlock.png)
+
 Honeyhive Galaxy/ForestHomeWallJumpBoard  
 ![Image](/SMG/Honeyhive%20Galaxy/ForestHomeWallJumpBoard.png)
 
