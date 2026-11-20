@@ -281,6 +281,9 @@ Hightail Falls Galaxy/WoodLogBridgeGate (Blue and Red)
 Hightail Falls Galaxy/DashYoshiSlope (A through C)  
 ![Image](/SMG2/Hightail%20Falls%20Galaxy/DashYoshiSlope.png)
 
+Hightail Falls Galaxy/DashYoshiClimbStep (A through C)  
+![Image](/SMG2/Hightail%20Falls%20Galaxy/DashYoshiClimbStep.png)
+
 Wild Glide Galaxy/GliderStartWoodStep  
 ![Image](/SMG2/Wild%20Glide%20Galaxy/GliderStartWoodStep.png)
 
