@@ -106,6 +106,9 @@ Beach Bowl Galaxy/HeavenlyBeachPalmTree (A through I)
 Beach Bowl Galaxy/HeavenlyBeachIsland (A through D)  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachIsland.png)
 
+Beach Bowl Galaxy/HeavenlyBeachDock (A through C)  
+![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachDock.png)
+
 Beach Bowl Galaxy/HeavenlyBeachWaterBowl  
 ![Image](/SMG/Beach%20Bowl%20Galaxy/HeavenlyBeachWaterBowl.png)
 
